@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.profile img {
+  max-width: 200px;
+}
+.web-title {
+  display: flex;
+  justify-content: center;
+  background-color: #ef1a2d;
+}
+.profile {
+  text-align: center;
+  background-color: #fff200;
+}
+.container-story-personal {
+  display: flex;
+  justify-content: center;
+  padding: 50px 120px;
+}
+.my-story {
+  padding: 10px 20px;
+  max-width: 800px;
+}
+.personal-information {
+  padding: 10px 20px;
+}
+.my-project {
+  text-align: center;
+}
+.my-project img {
+  max-width: 100%;
+}
+.project {
+  margin: 50px;
+}
+footer {
+  text-align: center;
+}
+.social-media a {
+  font-size: 50px;
+  padding: 10px;
+  color: #000000;
+}
+.social-media a::after {
+  color: #000000;
+}
